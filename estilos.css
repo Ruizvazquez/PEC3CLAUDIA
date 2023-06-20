@@ -74,7 +74,7 @@ img{display:block;margin:0 auto;margin-bottom:4%;width: 100%;}
 }
 .pagina1 h3 a{color:rgb(222,35,51);text-decoration: none;}
 .pagina1 article p{position:relative;left:2%;width:95%; font-family:'source_sans_proregular';}
-.pagina1 article{width:85%; margin: 0 auto;}
+.pagina1 article{width:auto; margin: 0 auto;}
 
 .leer{position:relative;left:9%;width:83%;margin-top:5%;margin-bottom: 15%;}
 .leer a{text-decoration: none;color:rgb(222,35,51);font-family:'source_sans_probold';}
