@@ -57,7 +57,7 @@ nav{position: sticky;color:rgb(0, 0, 0);margin-bottom:3%;}
 .pagina a{color:rgb(222,35,51)}
 
 .fondo{background-image: url("../IMG/bg-hero-home-m.jpg"); width: 100% auto ;
- padding: 15%;background-size: cover;}
+ padding-top: 15%;padding-bottom:15%background-size: cover;}
 
 .fondo div {color:rgb(255, 255, 255); text-align: center; font-family:'source_sans_proregular';
 font-size:2.5em;}
