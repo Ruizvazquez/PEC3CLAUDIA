@@ -68,7 +68,7 @@ margin-top:10%;}
 .ia p {text-align:left; font-family: 'source_sans_proregular';width:92%;font-size:1.4em;padding-left:3%;}
 main span{font-family:'source_sans_probold';}
 
-img{display:block;margin:0 auto;margin-bottom:4%;}
+img{display:block;margin:0 auto;margin-bottom:4%;width: auto;}
 
 .pagina1 h3{font-family:'source_sans_probold';text-align:left;font-size:2em;margin-bottom:5%;margin-top:5%;width:95%;left:2%;
 }
