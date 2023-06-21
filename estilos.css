@@ -70,10 +70,10 @@ main span{font-family:'source_sans_probold';}
 
 img{display:block;margin:0 auto;margin-bottom:4%;}
 
-.pagina1 h3{font-family:'source_sans_probold';text-align:left;font-size:2em;margin-bottom:5%;margin-top:5%;width:95%;left:2%;
-}
+.pagina1 h3{font-family:'source_sans_probold';text-align:left;font-size:2em;margin-bottom:5%;margin-top:5%;width:90%;left:2%;
+ margin: 0 auto;}
 .pagina1 h3 a{color:rgb(222,35,51);text-decoration: none;}
-.pagina1 article p{position:relative;left:2%;width:95%; font-family:'source_sans_proregular';}
+.pagina1 article p{position:relative;left:2%;width:88%; font-family:'source_sans_proregular'; margin: 0 auto;}
 .pagina1 article{width:100%; margin: 0 auto;}
 .pagina1{padding-left:1%;}
 .leer{position:relative;left:9%;width:83%;margin-top:5%;margin-bottom: 15%;}
